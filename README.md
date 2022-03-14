@@ -1,0 +1,1 @@
+# Atividade-de-JavaScript---Calculadora-de-Resist-ncia-El-trica-
