@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+}
+.campo_m{
+    display: flex;
+}
+#select_t, #select_ppm, #end{
+    display: none;
+}
+.campos{
+    /* border: 5px solid red; */
+    width: 40vw;
+    height: 100%;
+    padding-top: 30vh;
+}
+#end_u{
+    display: block;
+}
+.allselect{
+    margin: 10px;
+    height: 40px;
+    width: 230px;
+    margin-left: 40px;
+}
+.campo{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.bt{
+    margin: 10px;
+    height: 40px;
+    width: 100px;
+    margin-left: 38%;
+    margin-top: 5%;
+}
+#end_u, #end{
+    height: 38px;
+    width: 228px;
+    border: 1px solid black;
+    text-align: center;
+
+}
+img{
+    margin-top: 30%;
+    margin-left: 20%;
+}
+
